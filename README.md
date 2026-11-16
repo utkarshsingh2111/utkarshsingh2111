@@ -1,12 +1,4 @@
 
-
-<div align="center">
-  
-  <img src="./assets/github-banner.png"
-       alt="Utkarsh Singh - Frontend Developer"
-       width="100%">
-</div>
-
 # 👋 Hi, I'm Utkarsh Singh
 
 ### Frontend Developer | WordPress Developer | AI & Automation Enthusiast
